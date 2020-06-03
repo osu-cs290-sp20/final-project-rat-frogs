@@ -1,0 +1,28 @@
+Project is due by Thursday morning (11 June 2020)
+Demo is at 10:40 AM PST on Thursday (11 June 2020)
+
+TODO:
+Database Code
+Server Code
+HTML
+CSS
+Functionality
+Templating
+
+Preliminary idea:
+Frog website 3 will be a website that will allow you to access three pages. 
+
+The home page:
+'/' will contain a button and play some sort of audio. At the top of the home page there will be a navbar which
+has two buttons, "Frogs" and "Frog Facts". Clicking on the button should pull up a menu which allows the user to upload
+an image to '/frogs' and change its pixel colors.
+
+Frog page:
+Found at '/frogs' and can be accessed by typing the URL or clicking the button from the home page. This will contain images of
+all frogs uploaded to the database via the home page upload button. Generally, the program should read the image data of whatever is
+uploaded, and pixels that match generic frog colors (Greens in our case) should be able to be changed to another color at the user's 
+choosing. Depending on time we can implement basic code or a few colors like red, blue, purple. 
+
+Frog Fact Page:
+This page is simply a bunch of frog facts and pictures of frogs, and should also contain links to additional pages like wikipedia for
+more frog information. This page will also play wacky audio.
