@@ -1,6 +1,36 @@
 Project is due by Thursday morning (11 June 2020)
 Demo is at 10:40 AM PST on Thursday (11 June 2020)
 
+HOW TO ACCESS THE PAGE:
+
+PREREQUISITES: Have Node.js and a machine that isn't from 1609
+1) Clone the repository onto your local machine
+2) Open the terminal and navigate to the saved location of the repository
+3) Type the following command in the terminal: 'npm start'
+4) Navigate to 'localhost:####' where #### is the port. 
+5) Site can be navigated through clicking buttons, but all site URLs are as follows:
+   '/'
+   '/frogs'
+   '/frog-facts'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 TODO:
 Database Code
 Server Code
@@ -24,5 +54,5 @@ uploaded, and pixels that match generic frog colors (Greens in our case) should 
 choosing. Depending on time we can implement basic code or a few colors like red, blue, purple. 
 
 Frog Fact Page:
-Found at '/frogFacts', this page is simply a bunch of frog facts and pictures of frogs, and should also contain links to additional pages like wikipedia for
+Found at '/frog-facts', this page is simply a bunch of frog facts and pictures of frogs, and should also contain links to additional pages like wikipedia for
 more frog information. This page will also play wacky audio.
