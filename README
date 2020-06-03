@@ -12,8 +12,13 @@ PREREQUISITES: Have Node.js and a machine that isn't from 1609
    '/'
    '/frogs'
    '/frog-facts'
-====================================================================================================
+ 
+ 
+==================
+ DEV INFORMATION
+==================
 
+DO NOT PUSH TO MASTER. WORK IN BRANCHES ALWAYS.
 
 Project is due by Thursday morning (11 June 2020)
 Demo is at 10:40 AM PST on Thursday (11 June 2020)
