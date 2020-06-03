@@ -24,5 +24,5 @@ uploaded, and pixels that match generic frog colors (Greens in our case) should 
 choosing. Depending on time we can implement basic code or a few colors like red, blue, purple. 
 
 Frog Fact Page:
-This page is simply a bunch of frog facts and pictures of frogs, and should also contain links to additional pages like wikipedia for
+Found at '/frogFacts', this page is simply a bunch of frog facts and pictures of frogs, and should also contain links to additional pages like wikipedia for
 more frog information. This page will also play wacky audio.
