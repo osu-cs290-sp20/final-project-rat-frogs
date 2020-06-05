@@ -1,0 +1,24 @@
+{
+  "name": "final-project-rat-frogs",
+  "version": "1.0.0",
+  "description": "What is Frog Website 3?\r Frog Website 3 is a site where you can fulfill all of the frog desires ribbiting at your core.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osu-cs290-sp20/final-project-rat-frogs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osu-cs290-sp20/final-project-rat-frogs/issues"
+  },
+  "homepage": "https://github.com/osu-cs290-sp20/final-project-rat-frogs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "handlebars": "^4.7.6"
+  }
+}
