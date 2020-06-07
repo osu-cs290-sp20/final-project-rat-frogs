@@ -1,6 +1,8 @@
 <main class="home-page">
 	<div class="title-container">
 		<h2>Welcome to the Website that functions as a frog Database.</h2>
-		
+			{{#each photos}}
+				{{>photocard}}
+			{{/each}}
 	</div>
 </main>
