@@ -17,6 +17,7 @@ app.get('/', function (req, res, next) {
 	res.status(200).render("homePage", {pageTitle: "Homepage", photos: [test, test, test]});
 });
 
+
 app.get("*", function (req, res, next){
 	res.status(404).render("404", {pageTitle: "404 - page not found"});
 })
