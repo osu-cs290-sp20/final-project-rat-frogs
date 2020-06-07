@@ -10,7 +10,11 @@ app.set("view engine", "handlebars");
 app.use(express.static(__dirname + "/public"));
 
 app.get('/', function (req, res, next) {
-	res.status(200).render("homePage", {pageTitle: "Homepage"});
+	var test = {
+		url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Green_and_Golden_Bell_Frog.jpg/1280px-The_Green_and_Golden_Bell_Frog.jpg",
+		frogFacts: "Cool shit tbh"
+	};
+	res.status(200).render("homePage", {pageTitle: "Homepage", photos: [test, test, test]});
 });
 
 app.get("*", function (req, res, next){
