@@ -1,34 +1,37 @@
 [
     {
-      "name": "Watching my web dev lecture... This class is so awesome!",
-      "jump": "CSMajor2020"
+      "name": "blue poison dart frog",
+      "diet": "primarily insects, such as caterpillars, beetles and ants.",
+      "misc": "This frog has enough poison for 30-50 darts!"
     },
     {
-      "name": "Anyone missing baseball?  It'd be fun to be able to watch the Beavs right now!",
-      "jump": "BeaverBeliever"
+      "name": "red-eyed tree frog",
+      "diet": "BeaverBeliever",
+      "misc": "This frog has an average lifespan of 5 years"
     },
     {
-      "name": "A body in motion must remain in motion unless acted upon by an outside force.",
-      "jump": "NewtonRulez"
+      "name": "golden poison frog",
+      "diet": "NewtonRulez",
+      "misc": ""
     },
     {
-      "name": "Huh?",
-      "jump": "ConfusedTweeterer"
+      "name": "amazon milk frog",
+      "diet": "ConfusedTweeterer",
+      "misc": ""
     },
     {
-      "name": "Why did the calf cross the road?",
-      "jump": "Setup"
+      "name": "tomato frog",
+      "diet": "Setup",
+      "misc": ""
     },
     {
-      "name": "To get to the udder side!",
-      "jump": "Punchline"
+      "name": "goliath frog",
+      "diet": "Punchline",
+      "misc": ""
     },
     {
-      "name": "Any questions about flexboxes?",
-      "jump": "Hess"
-    },
-    {
-      "name": "Friendly reminder: your taxes were due yesterday.",
-      "jump": "TheIRS"
+      "name": "mimic poison frog",
+      "diet": "Hess",
+      "misc": ""
     }
   ]
