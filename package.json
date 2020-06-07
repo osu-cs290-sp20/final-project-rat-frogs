@@ -2,10 +2,11 @@
   "name": "final-project-rat-frogs",
   "version": "1.0.0",
   "description": "What is Frog Website 3?\r Frog Website 3 is a site where you can fulfill all of the frog desires ribbiting at your core.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "prestart": "handlebars ./views/partials/photocard.handlebars -f public/photocard.js"
+    "build": "handlebars ./views/partials/photocard.handlebars -f public/photocard.js",
+    "prestart": "npm run build"
   },
   "repository": {
     "type": "git",
