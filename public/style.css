@@ -274,3 +274,23 @@ img.frog-img{
 }
 
 
+.frogAnimate{
+
+
+  animation: deepFry 8s infinite;
+
+
+}
+
+@keyframes deepFry {
+
+  50%{
+
+    -webkit-filter: contrast(8);
+    filter: contrast(8);
+
+  }
+
+
+
+}
