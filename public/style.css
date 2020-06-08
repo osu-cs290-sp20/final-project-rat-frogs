@@ -1,4 +1,10 @@
- 
+audio {
+    filter: sepia(20%) saturate(100%) grayscale(1) contrast(100%) invert(12%);
+    width: 200px;
+    height: 25px;
+    background-color: #e78477;
+} 
+
 body {
   font-family: 'Lato', sans-serif;
   margin: 0;
