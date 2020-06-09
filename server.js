@@ -3,13 +3,12 @@ var expressHandlebars = require("express-handlebars");
 
 var app = express();
 var port = process.env.PORT || 3000;
+var data = require('./db/frogData.json');
 
 app.engine("handlebars", expressHandlebars({defaultLayout: "pageTemplate"}));//should change this eventually
 app.set("view engine", "handlebars");
 
 app.use(express.static(__dirname + "/public"));
-
-var fluteSalad = new Audio('./audio/flutesalad.mp3');
 
 app.get('/', function (req, res, next) {
 	var test = {
@@ -20,7 +19,15 @@ app.get('/', function (req, res, next) {
 });
 
 app.get('/frog-facts', function (req, res, next) {
-	res.status(200).render("frogFactsPage", { pageTitle: "Frog Facts Page" });
+	if (data) {
+		var inputs = {
+			frog: data
+		}
+		res.status(200).render("frogFactsPage", inputs);
+	}
+	else {
+		next();
+    }
 });
 
 

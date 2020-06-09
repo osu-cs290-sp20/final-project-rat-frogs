@@ -1,13 +1,12 @@
-{
-  "frogs": [
-    {
-      "id": 1,
-      "name": "Blue Poison Dart Frog",
-      "diet": "Primarily insects such as: caterpillars, beetles, ants.",
-      "misc": "This frog has enough poison for 30-50 darts!",
-      "photo": [
-        {
-          "caption": "He blue as heck.",
+[
+   {
+     "id": 1,
+     "name": "Blue Poison Dart Frog",
+     "diet": "Primarily insects such as: caterpillars, beetles, ants.",
+     "misc": "This frog has enough poison for 30-50 darts!",
+     "photo": [
+       {
+         "caption": "He blue as heck.",
           "url": "https://en.wikipedia.org/wiki/Blue_poison_dart_frog#/media/File:Dendrobates_azureus_qtl1.jpg"
         }
       ]
@@ -87,5 +86,4 @@
         }
       ]
     }
-  ]
-} 
+ ]
