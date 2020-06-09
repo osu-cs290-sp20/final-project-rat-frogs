@@ -3,6 +3,7 @@ var expressHandlebars = require("express-handlebars");
 
 var app = express();
 var port = process.env.PORT || 3000;
+var data = require('./db/frogData.json');
 
 app.engine("handlebars", expressHandlebars({defaultLayout: "pageTemplate"}));//should change this eventually
 app.set("view engine", "handlebars");
@@ -17,9 +18,21 @@ app.get('/', function (req, res, next) {
 	res.status(200).render("homePage", {pageTitle: "Homepage", photos: [test, test, test]});
 });
 
+app.get('/frog-facts', function (req, res, next) {
+	if (data) {
+		var inputs = {
+			frog: data
+		}
+		res.status(200).render("frogFactsPage", inputs);
+	}
+	else {
+		next();
+    }
+});
 
-app.get("*", function (req, res, next){
-	res.status(404).render("404", {pageTitle: "404 - page not found"});
+
+app.get("*", function (req, res, next) {
+	res.status(404).render("404", { pageTitle: "404 - page not found" });
 })
 
 app.listen(port, function () {

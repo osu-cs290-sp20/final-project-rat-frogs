@@ -1,0 +1,19 @@
+<header>
+	<audio controls>
+		<source src="audio/frogland.mp3" type="audio/mp3">
+	</audio>
+</header>
+
+<main class="frog-facts-page">
+	<div class="title-container">
+		<h2>This shit shows you frogs yo.</h2>
+	</div>
+</main>
+
+<br />
+
+<main class="frog-content-container">
+	{{#each frog}}
+		{{> froggies}}
+	{{/each}}
+</main>
