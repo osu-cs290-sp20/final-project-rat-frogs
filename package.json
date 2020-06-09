@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node server.js",
     "build": "handlebars ./views/partials/photocard.handlebars -f public/photocard.js",
-    "prestart": "npm run build"
+    "prestart": "handlebars ./views/partials/photocard.handlebars -f public/froggies.js"
   },
   "repository": {
     "type": "git",

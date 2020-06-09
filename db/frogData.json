@@ -1,89 +1,66 @@
 [
-   {
-     "id": 1,
-     "name": "Blue Poison Dart Frog",
-     "diet": "Primarily insects such as: caterpillars, beetles, ants.",
-     "misc": "This frog has enough poison for 30-50 darts!",
-     "photo": [
-       {
-         "caption": "He blue as heck.",
-          "url": "https://en.wikipedia.org/wiki/Blue_poison_dart_frog#/media/File:Dendrobates_azureus_qtl1.jpg"
-        }
-      ]
-    },
+  {
+    "id": 1,
+    "name": "Blue Poison Dart Frog",
+    "diet": "Primarily insects such as: caterpillars, beetles, ants.",
+    "misc": "This frog has enough poison for 30-50 darts!",
+    "caption": "He blue as heck.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Dendrobates_azureus_qtl1.jpg"
+
+  },
     {
 
       "id": 2,
       "name": "Red-Eyed Tree Frog",
       "diet": "Who the hell knows",
       "misc": "Once I touched a quarter then rubbed my eye.",
-      "photo": [
-        {
-          "caption": "A green boi",
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_eyed_tree_frog_edit2.jpg"
-        }
-      ]
+      "caption": "A green boi",
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_eyed_tree_frog_edit2.jpg"
     },
-    {
-      "id": 3,
-      "name": "Golden Poison Frog",
-      "diet": "Is gold even edible?",
-      "misc": "Nine seconds have passed",
-      "photo": [
-        {
-          "caption": "Fucker actually looks piss yellow.",
-          "url": "https://en.wikipedia.org/wiki/Golden_poison_frog#/media/File:Schrecklicherpfeilgiftfrosch-01.jpg"
-        }
-      ]
-    },
+  {
+    "id": 3,
+    "name": "Golden Poison Frog",
+    "diet": "Is gold even edible?",
+    "misc": "Nine seconds have passed",
+    "caption": "Fucker actually looks piss yellow.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg"
 
-    {
-      "id": 4,
-      "name": "Amazon Milk Frog",
-      "diet": "Jeff Bezos' money",
-      "misc": "Get Amazon Prime for two day shipping!",
-      "photo": [
-        {
-          "caption": "The milk will probably expire by then.",
-          "url": "https://en.wiktionary.org/wiki/Amazon_milk_frog#/media/File:Trachycephalus_resinifictrix_-Warsaw_Zoo,_Poland-8a.jpg"
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "name": "Tomato Frog",
-      "diet": "fruits",
-      "misc": "Call me a vegetable I dare you.",
-      "photo": [
-        {
-          "caption": "This chunky fucker could feed the Soviet Union for a month",
-          "url": "https://en.wikipedia.org/wiki/Tomato_frog"
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "Mimic Poison Frog",
-      "diet": "ur mom",
-      "misc": "Looks like a fucking bee",
-      "photo": [
-        {
-          "caption": "Nothing that my Ancient Chinese Herbs can't fix.",
-          "url": "https://en.wikipedia.org/wiki/Mimic_poison_frog#/media/File:R._imitator_Chazuta.jpg"
-        }
-      ]
-    },
-    {
 
-      "id": 7,
-      "name": "Goliath Frog",
-      "diet": "Protein Bars",
-      "misc": "This dude does not skip leg day",
-      "photo": [
-        {
-          "caption": "Hey how many sets you got left bro?",
-          "url": "https://en.wikipedia.org/wiki/Goliath_frog#/media/File:Goliath_Frog.jpg"
-        }
-      ]
-    }
+  },
+
+  {
+    "id": 4,
+    "name": "Amazon Milk Frog",
+    "diet": "Jeff Bezos' money",
+    "misc": "Get Amazon Prime for two day shipping!",
+    "caption": "The milk will probably expire by then.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Trachycephalus_resinifictrix_-Warsaw_Zoo%2C_Poland-8a.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "Tomato Frog",
+    "diet": "fruits",
+    "misc": "Call me a vegetable I dare you.",
+    "caption": "This chunky fucker could feed the Soviet Union for a month",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/TomatoFrog.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "Mimic Poison Frog",
+    "diet": "ur mom",
+    "misc": "Looks like a fucking bee",
+    "caption": "Nothing that my Ancient Chinese Herbs can't fix.",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/R._imitator_Chazuta.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "Goliath Frog",
+    "diet": "Protein Bars",
+    "misc": "This dude does not skip leg day",
+    "caption": "Hey how many sets you got left bro?",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Goliath_Frog.jpg"
+  }
  ]
