@@ -13,7 +13,7 @@ app.use(express.static(__dirname + "/public"));
 app.get('/', function (req, res, next) {
 	var test = {
 		url: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/The_Green_and_Golden_Bell_Frog.jpg/1280px-The_Green_and_Golden_Bell_Frog.jpg",
-		frogFacts: "Cool shit tbh"
+		frogFacts: "Here are some frogs to Deep Fry"
 	};
 	res.status(200).render("homePage", {pageTitle: "Homepage", photos: [test, test, test]});
 });
