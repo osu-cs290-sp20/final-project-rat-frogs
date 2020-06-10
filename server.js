@@ -21,7 +21,8 @@ app.get('/', function (req, res, next) {
 app.get('/frog-facts', function (req, res, next) {
 	if (data) {
 		var inputs = {
-			frog: data
+			frog: data,
+			pageTitle: "Frog Facts"
 		}
 		res.status(200).render("frogFactsPage", inputs);
 	}
