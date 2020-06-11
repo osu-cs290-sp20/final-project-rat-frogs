@@ -112,3 +112,15 @@ article.frog{
   color: black;
   font-size: 25px;
 }
+
+#factsDeepFry{
+  width: 100px;
+  text-align: center;
+  right: 20px;
+  top: 200px;
+}
+
+.error-gif{
+  width: 35%;
+  height: 35%;
+}
