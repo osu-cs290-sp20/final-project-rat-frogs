@@ -2,9 +2,9 @@
   {
     "id": 1,
     "name": "Blue Poison Dart Frog",
-    "diet": "Primarily insects such as: caterpillars, beetles, ants.",
+    "diet": "Diet: caterpillars, beetles, ants.",
     "misc": "This frog has enough poison for 30-50 darts!",
-    "caption": "He blue as heck.",
+    "caption": "He blue as heck",
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Dendrobates_azureus_qtl1.jpg"
 
   },
@@ -12,17 +12,17 @@
 
       "id": 2,
       "name": "Red-Eyed Tree Frog",
-      "diet": "Who the hell knows",
-      "misc": "Once I touched a quarter then rubbed my eye.",
-      "caption": "A green boi",
+      "diet": "Diet: He do be a carnivore tho",
+      "misc": "About the size of a teacup",
+      "caption": "A green boi just chillin",
       "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Red_eyed_tree_frog_edit2.jpg"
     },
   {
     "id": 3,
     "name": "Golden Poison Frog",
-    "diet": "Is gold even edible?",
-    "misc": "Nine seconds have passed",
-    "caption": "Fucker actually looks piss yellow.",
+    "diet": "Diet: Is gold even edible?",
+    "misc": "Weighs less than an ounce",
+    "caption": "Looking pensive",
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg"
 
 
@@ -31,35 +31,35 @@
   {
     "id": 4,
     "name": "Amazon Milk Frog",
-    "diet": "Jeff Bezos' money",
-    "misc": "Get Amazon Prime for two day shipping!",
-    "caption": "The milk will probably expire by then.",
+    "diet": "Diet: Insects",
+    "misc": "They can hold up to 14x their weight",
+    "caption": "When they offer you that 2% milk",
     "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Trachycephalus_resinifictrix_-Warsaw_Zoo%2C_Poland-8a.jpg"
 
   },
   {
     "id": 5,
     "name": "Tomato Frog",
-    "diet": "fruits",
-    "misc": "Call me a vegetable I dare you.",
-    "caption": "This chunky fucker could feed the Soviet Union for a month",
+    "diet": "Diet: not tomatoes",
+    "misc": "I am a female, as shown by my reddish color",
+    "caption": "DO NOT EAT MY FOOD JARED",
     "url": "https://upload.wikimedia.org/wikipedia/commons/c/c2/TomatoFrog.jpg"
 
   },
   {
     "id": 6,
     "name": "Mimic Poison Frog",
-    "diet": "ur mom",
-    "misc": "Looks like a fucking bee",
-    "caption": "Nothing that my Ancient Chinese Herbs can't fix.",
+    "diet": "Diet: Insects",
+    "misc": "Likely gets its toxicity from eating poisonous insects",
+    "caption": "Just sittin on a leaf",
     "url": "https://upload.wikimedia.org/wikipedia/commons/6/6e/R._imitator_Chazuta.jpg"
 
   },
   {
     "id": 7,
     "name": "Goliath Frog",
-    "diet": "Protein Bars",
-    "misc": "This dude does not skip leg day",
+    "diet": "Diet: Protein Bars (insects, fish, and amphibians)",
+    "misc": "15 year lifespan... beat that",
     "caption": "Hey how many sets you got left bro?",
     "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Goliath_Frog.jpg"
   }
